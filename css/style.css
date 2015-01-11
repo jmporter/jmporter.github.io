@@ -1,8 +1,15 @@
 @import url(http://fonts.googleapis.com/css?family=Amatic+SC);
-
+body {
+  background-color:#e7e7e7 !important;
+}
 .top {
-  margin-top:300px;
+  padding-top:280px;
 
+}
+body, html {
+  height:  100%;
+  margin:  0px auto;
+  padding: 0px auto;
 }
 
 
@@ -10,6 +17,7 @@
   content: url("../img/j.jpg");
   height: 315px;
   width: 300px;
+  margin-top:40px;
  margin-right: 10px;
 }
 
@@ -18,7 +26,8 @@
 }
 
 .cont {
-  margin-top:100px;
+  margin-top:40px;
+  padding-bottom:30px;
 }
 
 .cont h3 {
@@ -29,7 +38,7 @@
   margin:0px 50px 0px 50px;
 }
 p {
-  font-size:15px;
+  font-size:11px;
   line-height:25px;
 }
 
@@ -47,7 +56,9 @@ h3 {
   font-size:40px !important;
   color:#4370b8 !important;
 }
-
+body {
+  background-color:f !important;
+}
 .coursework {
   margin-left:30px;
 }
