@@ -17,9 +17,9 @@
 	position: fixed;
 	margin:0 auto;
 	z-index: 999;
-	height:150px;
+	height: 80px;
 	max-width: 85%;
-	padding: 65px 100px;
+	padding: 40px 50px;
 	background: url('../img/tt.png');
 	background-width:100%;
 	background-color: #ffffff;
