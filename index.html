@@ -10,13 +10,24 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 	<script src="js/modernizr.custom.js"></script>
+  <script type="text/javascript" language="JavaScript">
+    num = 5;
+    FirstPart = '<img src="./img/j';
+    LastPart = '.jpg" height="300px" width="300px" margin-top="0px" margin-right="10px">';
+
+    function printImage() {
+      var r = Math.ceil(Math.random() * num);
+      document.write(FirstPart + r + LastPart);
+    }
+  </script>
+
 </head>
 <body>
 
 	<div class="wrapper">
 		<div class=" cbp-af-header">
 			<div class="cbp-af-inner">
-				<h1>Jared Porter(site under construction)</h1>
+				<h1><a href="">Jared Porter</a>(site under construction)</h1>
 
 				<nav>
 					<a href="#1">Research</a>
@@ -31,16 +42,20 @@
 				<div class = 'row'>
 					<div class = "col-lg-8 col-lg-offset-2">
 						<div class = 'col-lg-5 col-md-5 col-sm-6 col-lg-offset-0 col-md-offset-0 col-sm-offset-0 col-xs-offset-3'>
-							<img class = 'jared-pic'></img>
+							<!-- <img class = 'jared-pic'></img> -->
+              <script type="text/javascript" language="JavaScript">
+              printImage();
+              </script>
 						</div>
 						<div class = 'col-lg-6 col-md-6 col-sm-6 col-xs-10 col-lg-offset-1 col-md-offset-0 col-sm-offset-0 col-xs-offset-2 basic'>
 							<div class = 'mail'>About Me</div>
 							<p></p>
 								<br>
 								<h4>Contact:</h4>
-								<div class = 'mail'>	<img src="img/office.png" />	Office: 5105 Etchverry<br>
+								<div class = 'mail'>	<img src="img/office.png" />	Office: 5105 Etchverry, UC Berkeley
+                  <br>
 									<a href="mailto:jmporter@berkeley.edu">
-										<img src="img/mail.png" />Email: jmporter@berkeley.edu</img></div></a>
+										<img src="img/mail.png" />Email: jmporter[at]berkeley.edu</img></div></a>
 										<br>
 									</div>
 
