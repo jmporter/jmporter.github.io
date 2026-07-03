@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Jared Porter</title>
+    <link>https://thejaredporter.com/tags/</link>
+    <description>Recent content in Tags on Jared Porter</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thejaredporter.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Embedded</title>
+      <link>https://thejaredporter.com/tags/embedded/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thejaredporter.com/tags/embedded/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://thejaredporter.com/tags/hardware/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thejaredporter.com/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mechanical</title>
+      <link>https://thejaredporter.com/tags/mechanical/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://thejaredporter.com/tags/mechanical/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

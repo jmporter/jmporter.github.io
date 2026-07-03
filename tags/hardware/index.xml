@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hardware on Jared Porter</title>
+    <link>https://thejaredporter.com/tags/hardware/</link>
+    <description>Recent content in Hardware on Jared Porter</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thejaredporter.com/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sleep Monitoring Retainer</title>
+      <link>https://thejaredporter.com/projects/retainer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://thejaredporter.com/projects/retainer/</guid>
+      <description>A wearable mouthguard with embedded sensors for sleep monitoring, built across three hardware iterations.</description>
+    </item>
+  </channel>
+</rss>

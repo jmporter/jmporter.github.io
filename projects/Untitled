@@ -1,0 +1,17 @@
+---
+title: "Sleep Monitoring Retainer"
+date: 2025-01-01
+description: "A wearable mouthguard with embedded sensors for sleep monitoring, built from concept to prototype."
+cover:
+  image: "images/retainer.jpg"
+  alt: "Sleep monitoring retainer"
+---
+
+Custom embedded hardware project built from concept to prototype. Designed and fabricated 
+flexible and rigid PCBs for embedding in a dental retainer, including a custom power 
+management board with wireless charging.
+
+Integrated multimodal sensing — flexible resistive sensors, bone conduction microphones, 
+IMU, thermocouple, and pulse oximetry. Developed firmware on Zephyr RTOS for Nordic 
+nRF52/nRF53 with BLE data streaming, OTA update capability, and NOR flash memory management.
+Built a reflow oven and hand-assembled micro-scale PCBs with SMD components.
